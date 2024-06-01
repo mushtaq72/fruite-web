@@ -8,7 +8,7 @@ const Footer = () => {
   <div className='row'>
 <div className='col-lg-7'>
 <p className='m-0'>Contact us</p>
-<h1> contact us at any time   </h1>
+<h1> Contact Us Any Time   </h1>
 <p> you can contact and buy our best product for your home and need </p>
 </div>
   </div>
