@@ -3,7 +3,7 @@ import styles from "./page.module.css";
 import Navbar from "./components.js/Navbar";
 import Main from "./components.js/Main";
 import Main2 from "./components.js/Main2";
-import HeroSection from "./components.js/HeroSection";
+import Product from "./components.js/Product";
 import Footer from "./components.js/Footer";
 
 export default function Home() {
@@ -12,7 +12,7 @@ export default function Home() {
      <Navbar/>
      <Main/>
      <Main2/>
-     <HeroSection/>
+    <Product/>
      <Footer/>
     </main>
   );

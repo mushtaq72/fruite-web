@@ -10,11 +10,12 @@ const Main2 = () => {
                 <h1 >Welcome to organic</h1>
                 <p>Organic food is a food and drinks products by methods complying with the standers of organic farming</p>
                 </div>
+               
 
                 
 
-
                 <div className='row '>
+                
                  <div className='col-lg-4'>
                  <div className='card py-3 wlcrd'>
                  <div className='card-body'>
@@ -23,8 +24,24 @@ const Main2 = () => {
                   </div>
                   </div>
                   </div>
+                  <div className='col-lg-4'>
+                 <div className='card py-3 wlcrd'>
+                 <div className='card-body'>
+                  <h2 className='alwz'> Always fresh</h2>
+                  <p>Organic food is a food and drinks products</p>
+                  </div>
+                  </div>
+                  </div>
+                  <div className='col-lg-4'>
+                 <div className='card py-3 wlcrd'>
+                 <div className='card-body'>
+                  <h2 className='alwz'> Always fresh</h2>
+                  <p>Organic food is a food and drinks products</p>
+                  </div>
+                  </div>
+                  </div>
+                  </div>
                  </div>
-                </div>
                 </section>
       
     </div>
